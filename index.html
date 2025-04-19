@@ -13,19 +13,14 @@
     h1 {
       text-align: center;
     }
-    input[type="text"] {
-      width: 300px;
+    input[type="text"], select {
+      background-color: #2c2c2c;
+      color: #fff;
+      border: 1px solid #555;
       padding: 8px;
       margin-bottom: 10px;
-      background-color: #2c2c2c;
-      color: #fff;
-      border: 1px solid #555;
     }
     select {
-      background-color: #2c2c2c;
-      color: #fff;
-      border: 1px solid #555;
-      padding: 6px;
       margin-left: 10px;
     }
     table {
@@ -66,6 +61,20 @@
 <body>
   <h1>전주국제영화제 잔여석 모니터링</h1>
   <input type="text" id="searchBox" placeholder="제목, 상영관, 상영코드로 검색" />
+  <label for="dateFilter">날짜:</label>
+  <select id="dateFilter">
+    <option value="">전체</option>
+    <option value="20250430">2024-04-30</option>
+    <option value="20250501">2024-05-01</option>
+    <option value="20250502">2024-05-02</option>
+    <option value="20250503">2024-05-03</option>
+    <option value="20250504">2024-05-04</option>
+    <option value="20250505">2024-05-05</option>
+    <option value="20250506">2024-05-06</option>
+    <option value="20250507">2024-05-07</option>
+    <option value="20250508">2024-05-08</option>
+    <option value="20250509">2024-05-09</option>
+  </select>
   <button id="toggleAutoRefresh">자동 새로고침: ON</button>
   <label for="refreshInterval">간격:</label>
   <select id="refreshInterval">
@@ -125,18 +134,21 @@
 
       const table = document.getElementById('scheduleTable');
       const searchBox = document.getElementById('searchBox');
+      const dateFilter = document.getElementById('dateFilter');
       searchBox.value = localStorage.getItem('searchQuery') || '';
 
-      function renderTable(filter = '') {
+      function renderTable(filter = '', date = '') {
         table.innerHTML = '';
         const terms = filter.toLowerCase().split(',').map(s => s.trim()).filter(Boolean);
 
         allData.filter(d => {
-          return terms.length === 0 || terms.some(term =>
+          const matchesDate = !date || d.date === date;
+          const matchesSearch = terms.length === 0 || terms.some(term =>
             d.title.toLowerCase().includes(term) ||
             d.place.toLowerCase().includes(term) ||
             d.code.includes(term)
           );
+          return matchesDate && matchesSearch;
         }).sort((a, b) => a.date.localeCompare(b.date))
         .forEach(d => {
           const tr = document.createElement('tr');
@@ -161,10 +173,14 @@
       document.getElementById('searchBox').addEventListener('input', e => {
         const val = e.target.value;
         localStorage.setItem('searchQuery', val);
-        renderTable(val);
+        renderTable(val, dateFilter.value);
       });
 
-      renderTable(searchBox.value);
+      document.getElementById('dateFilter').addEventListener('change', e => {
+        renderTable(searchBox.value, e.target.value);
+      });
+
+      renderTable(searchBox.value, dateFilter.value);
     }
 
     function updateAutoRefreshUI() {
