@@ -97,37 +97,48 @@
     const timerDisplay = document.getElementById('refreshTimer');
 
     async function loadSchedule() {
-      const res = await fetch('/api/schedule');
-      const text = await res.text();
-      const parser = new DOMParser();
-      const xml = parser.parseFromString(text, 'application/xml');
+      const ymdList = ["20250430", "20250501", "20250502", "20250503", "20250504", "20250505", "20250506", "20250507", "20250508", "20250509"];
+      let allData = [];
 
-      const rows = [...xml.getElementsByTagName('ScheduleSummary')];
-      const data = rows.map(row => ({
-        title: row.querySelector('tit')?.textContent || '',
-        place: row.querySelector('pch')?.textContent || '',
-        time: row.querySelector('day')?.textContent || '',
-        code: row.querySelector('sCd')?.textContent || '',
-        remain: parseInt(row.querySelector('rNo')?.textContent || '0'),
-        date: row.querySelector('ymd')?.textContent || ''
-      })).sort((a, b) => a.date.localeCompare(b.date));
+      for (const ymd of ymdList) {
+        try {
+          const res = await fetch(`/api/schedule?ymd=${ymd}`);
+          const text = await res.text();
+          const parser = new DOMParser();
+          const xml = parser.parseFromString(text, 'application/xml');
+
+          const rows = [...xml.getElementsByTagName('ScheduleSummary')];
+          const data = rows.map(row => ({
+            title: row.querySelector('tit')?.textContent || '',
+            place: row.querySelector('pch')?.textContent || '',
+            time: row.querySelector('day')?.textContent || '',
+            code: row.querySelector('sCd')?.textContent || '',
+            remain: parseInt(row.querySelector('rNo')?.textContent || '0'),
+            date: row.querySelector('ymd')?.textContent || ''
+          }));
+
+          allData.push(...data);
+        } catch (err) {
+          console.error(`Failed to fetch for ${ymd}`, err);
+        }
+      }
 
       const table = document.getElementById('scheduleTable');
       const searchBox = document.getElementById('searchBox');
-
       searchBox.value = localStorage.getItem('searchQuery') || '';
 
       function renderTable(filter = '') {
         table.innerHTML = '';
         const terms = filter.toLowerCase().split(',').map(s => s.trim()).filter(Boolean);
 
-        data.filter(d => {
+        allData.filter(d => {
           return terms.length === 0 || terms.some(term =>
             d.title.toLowerCase().includes(term) ||
             d.place.toLowerCase().includes(term) ||
             d.code.includes(term)
           );
-        }).forEach(d => {
+        }).sort((a, b) => a.date.localeCompare(b.date))
+        .forEach(d => {
           const tr = document.createElement('tr');
           tr.className = d.remain === 0
             ? 'sold-out'
