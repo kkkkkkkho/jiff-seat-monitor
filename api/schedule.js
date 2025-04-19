@@ -8,7 +8,9 @@ export default async function handler(req, res) {
   const response = await fetch("https://www.xticket.co.kr/MPTicketing/InfoWS/RIA.asmx/GetScheduleSummary", {
     method: "POST",
     headers: {
-      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "Origin": "https://www.xticket.co.kr",
+      "Referer": "https://www.xticket.co.kr/",
     },
     body: `companyCd=SP0010&storeCd=01&planCompanyCd=PN0037&playYMD=${ymd}&scheCd=&riaType=N`
   });
