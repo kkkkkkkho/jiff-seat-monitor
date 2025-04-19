@@ -4,7 +4,7 @@ export default async function handler(req, res) {
     headers: {
       "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
     },
-    body: "companyCd=SP0010&storeCd=01&planCompanyCd=PN0037&playYMD=&scheCd=&riaType=N"
+    body: "companyCd=SP0010&storeCd=01&planCompanyCd=PN0037&playYMD=20250503&scheCd=&riaType=N"
   });
 
   const text = await response.text();
