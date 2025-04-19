@@ -97,19 +97,19 @@
     const timerDisplay = document.getElementById('refreshTimer');
 
     async function loadSchedule() {
-      const res = await fetch('schedule.xml');
+      const res = await fetch('/api/schedule');
       const text = await res.text();
       const parser = new DOMParser();
       const xml = parser.parseFromString(text, 'application/xml');
 
       const rows = [...xml.getElementsByTagName('ScheduleSummary')];
       const data = rows.map(row => ({
-        title: row.querySelector('tit').textContent,
-        place: row.querySelector('pch').textContent,
-        time: row.querySelector('day').textContent,
-        code: row.querySelector('sCd').textContent,
-        remain: parseInt(row.querySelector('rNo').textContent),
-        date: row.querySelector('ymd').textContent
+        title: row.querySelector('tit')?.textContent || '',
+        place: row.querySelector('pch')?.textContent || '',
+        time: row.querySelector('day')?.textContent || '',
+        code: row.querySelector('sCd')?.textContent || '',
+        remain: parseInt(row.querySelector('rNo')?.textContent || '0'),
+        date: row.querySelector('ymd')?.textContent || ''
       })).sort((a, b) => a.date.localeCompare(b.date));
 
       const table = document.getElementById('scheduleTable');
