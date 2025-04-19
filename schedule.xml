@@ -1,0 +1,4651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScheduleSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/">
+  <ScheduleSummary>
+    <tit>개막식 + 개막작: 콘티넨탈 '25</tit>
+    <pch>한국소리문화의전당 모악당</pch>
+    <day>04월 30일(수) (4) 18:30</day>
+    <sCd>001</sCd>
+    <rNo>0</rNo>
+    <ymd>20250430</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 1</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 03일(토) (1) 11:00</day>
+    <sCd>1001</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 2</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 03일(토) (2) 15:00</day>
+    <sCd>1002</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 3</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 03일(토) (3) 17:00</day>
+    <sCd>1003</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 4</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 04일(일) (1) 11:00</day>
+    <sCd>1004</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 5</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 04일(일) (2) 13:00</day>
+    <sCd>1005</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 6</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 04일(일) (3) 15:00</day>
+    <sCd>1006</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 7</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 04일(일) (4) 17:00</day>
+    <sCd>1007</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 8</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 05일(월) (1) 13:00</day>
+    <sCd>1008</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 9</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 05일(월) (2) 15:00</day>
+    <sCd>1009</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>콘티넨탈 '25</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 01일(목) (2) 13:00</day>
+    <sCd>101</sCd>
+    <rNo>167</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>전주톡톡 10</tit>
+    <pch>원스타임오프 쇼룸 .</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>1010</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>불행한 시간 + 잠 #2</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 01일(목) (1) 10:30</day>
+    <sCd>102</sCd>
+    <rNo>42</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>낯선 곳을 향해</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 01일(목) (1) 10:30</day>
+    <sCd>103</sCd>
+    <rNo>62</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>추락에 대하여</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>104</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>7일간의 외출</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 01일(목) (1) 10:30</day>
+    <sCd>105</sCd>
+    <rNo>54</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>레이오버 호텔</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>106</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마지막 공화당원</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 01일(목) (1) 11:00</day>
+    <sCd>107</sCd>
+    <rNo>22</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>꿈을 꾸었다 말해요</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 01일(목) (1) 10:30</day>
+    <sCd>108</sCd>
+    <rNo>61</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비상</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 01일(목) (1) 11:00</day>
+    <sCd>109</sCd>
+    <rNo>27</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 2: 몬동고 초상화</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>110</sCd>
+    <rNo>36</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하와의 첫 문장</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>111</sCd>
+    <rNo>54</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 1</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 02일(금) (5) 23:59</day>
+    <sCd>1111</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 1</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 02일(금) (5) 23:59</day>
+    <sCd>1112</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 1</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 02일(금) (5) 23:59</day>
+    <sCd>1113</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 2</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 03일(토) (5) 23:59</day>
+    <sCd>1114</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 2</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 03일(토) (5) 23:59</day>
+    <sCd>1115</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 2</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 03일(토) (5) 23:59</day>
+    <sCd>1116</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 3</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 04일(일) (5) 23:59</day>
+    <sCd>1117</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 3</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 04일(일) (5) 23:59</day>
+    <sCd>1118</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 3</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 04일(일) (5) 23:59</day>
+    <sCd>1119</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사라진 공화국</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 01일(목) (1) 10:30</day>
+    <sCd>112</sCd>
+    <rNo>67</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 4</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 05일(월) (5) 23:59</day>
+    <sCd>1120</sCd>
+    <rNo>57</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 4</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 05일(월) (5) 23:59</day>
+    <sCd>1121</sCd>
+    <rNo>77</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>심야상영 4</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 05일(월) (5) 23:59</day>
+    <sCd>1122</sCd>
+    <rNo>115</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>숨비소리</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>113</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>발코니의 여자들</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 01일(목) (1) 10:30</day>
+    <sCd>114</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>오래된 것, 새로운 것, 빌린 것</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>115</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>바다호랑이</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>116</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사진관블루스</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 01일(목) (1) 10:30</day>
+    <sCd>117</sCd>
+    <rNo>13</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>3학년 2학기</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 01일(목) (1) 10:30</day>
+    <sCd>118</sCd>
+    <rNo>1</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>봉인된 땅</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>119</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>새로운 물결</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 01일(목) (1) 10:00</day>
+    <sCd>120</sCd>
+    <rNo>26</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>가을이 오면</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 01일(목) (3) 16:30</day>
+    <sCd>121</sCd>
+    <rNo>375</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>배창호의 클로즈 업</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>122</sCd>
+    <rNo>34</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그랑 메종 파리</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 01일(목) (2) 14:00</day>
+    <sCd>123</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>슬로바키아의 희망, 주자나 차푸토바</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>124</sCd>
+    <rNo>58</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>호루몽</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 01일(목) (2) 14:00</day>
+    <sCd>125</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>직사각형, 삼각형 + 병훈의 하루</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>126</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>엄마와 곰</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 01일(목) (2) 14:30</day>
+    <sCd>127</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비밀일 수밖에</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 01일(목) (2) 14:00</day>
+    <sCd>128</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>갚아야 할 빚이 너무 많다</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 01일(목) (2) 14:30</day>
+    <sCd>129</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>필리핀 민주주의의 불씨</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>130</sCd>
+    <rNo>3</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>성실한 나라의 앨리스+ 꽃놀이 간다 + J 스페셜클래스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 01일(목) (2) 13:00</day>
+    <sCd>131</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>페이브먼트(들)</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 01일(목) (2) 14:00</day>
+    <sCd>132</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그래도, 사랑해.</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>133</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>짐승의 끝 + 마중초이스(박지환)</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>134</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>야간 근무</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 01일(목) (2) 14:00</day>
+    <sCd>135</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>백현진쑈 문명의 끝</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>136</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내 이름</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 01일(목) (2) 14:00</day>
+    <sCd>137</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤의 유령</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 01일(목) (2) 14:00</day>
+    <sCd>138</sCd>
+    <rNo>6</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>모든 문명의 기록</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>139</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내가 넘어져도 내버려 둬</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 01일(목) (2) 13:30</day>
+    <sCd>140</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>엄마와 곰</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 01일(목) (4) 19:30</day>
+    <sCd>141</sCd>
+    <rNo>495</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이 생의 몸</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>142</sCd>
+    <rNo>25</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비팅 하츠</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 01일(목) (3) 17:30</day>
+    <sCd>143</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>새로운 여명: 콜롬비아의 여성 게릴라들</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>144</sCd>
+    <rNo>69</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>차가운 것이 좋아!</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 01일(목) (3) 17:30</day>
+    <sCd>145</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>에디 앨리스</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>146</sCd>
+    <rNo>11</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비디오헤븐</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 01일(목) (3) 18:00</day>
+    <sCd>147</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하트 투 하트</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 01일(목) (3) 17:30</day>
+    <sCd>148</sCd>
+    <rNo>78</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>페도르 오제로프의 마지막 노래</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 01일(목) (3) 18:00</day>
+    <sCd>149</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤이 되면 늑대가 온다</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>150</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>더 차일드 + J 스페셜클래스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>151</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>수단, 우리를 기억해 줘</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 01일(목) (3) 17:30</day>
+    <sCd>152</sCd>
+    <rNo>65</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>3670</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>153</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>앙: 단팥 인생 이야기 + 마중초이스(차우민)</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 01일(목) (3) 17:30</day>
+    <sCd>154</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아리엘</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>155</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>귤레귤레</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>156</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>경계</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 01일(목) (3) 17:30</day>
+    <sCd>157</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>미션</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 01일(목) (3) 17:30</day>
+    <sCd>158</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>콜렉티브 모놀로그</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>159</sCd>
+    <rNo>1</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그라운드 제로로부터</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 01일(목) (3) 17:00</day>
+    <sCd>160</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 2: 장뤼크 고다르 단편</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 01일(목) (4) 21:00</day>
+    <sCd>161</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>오늘 우리가 했던 말</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 01일(목) (4) 20:30</day>
+    <sCd>162</sCd>
+    <rNo>35</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>고독의 오후</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 01일(목) (4) 21:00</day>
+    <sCd>163</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>핑크문</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 01일(목) (4) 21:00</day>
+    <sCd>164</sCd>
+    <rNo>44</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>만남의 집</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 01일(목) (4) 21:00</day>
+    <sCd>165</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>저항의 기록</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 01일(목) (4) 21:30</day>
+    <sCd>166</sCd>
+    <rNo>76</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>끝나지 않은 영화</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 01일(목) (4) 20:30</day>
+    <sCd>167</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>퀸즈</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 01일(목) (4) 20:30</day>
+    <sCd>168</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>너와의 거리</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 01일(목) (4) 21:00</day>
+    <sCd>169</sCd>
+    <rNo>57</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아방</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 01일(목) (4) 21:00</day>
+    <sCd>170</sCd>
+    <rNo>16</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>공원</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 01일(목) (4) 21:30</day>
+    <sCd>171</sCd>
+    <rNo>6</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 3: 드니 코테 장단편</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 01일(목) (4) 20:30</day>
+    <sCd>172</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>맨홀</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 01일(목) (4) 20:30</day>
+    <sCd>173</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아이 엠 러브</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 01일(목) (4) 21:00</day>
+    <sCd>174</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>인생세탁소</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 01일(목) (4) 21:00</day>
+    <sCd>175</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 1: 존 스미스 단편</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 01일(목) (4) 20:30</day>
+    <sCd>176</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>도주</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 01일(목) (4) 20:30</day>
+    <sCd>177</sCd>
+    <rNo>0</rNo>
+    <ymd>20250501</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>계엄령의 기억</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 02일(금) (2) 13:00</day>
+    <sCd>201</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>꿈</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 02일(금) (1) 10:30</day>
+    <sCd>202</sCd>
+    <rNo>3</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>베일리와 버드</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 02일(금) (1) 10:30</day>
+    <sCd>203</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>퀸즈</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>204</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>노르웨이식 데모크레이지</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 02일(금) (1) 10:30</day>
+    <sCd>205</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>맨홀</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>206</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>폐허에서 파쿠르</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 02일(금) (1) 11:00</day>
+    <sCd>207</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>직사각형, 삼각형 + 병훈의 하루</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 02일(금) (1) 10:30</day>
+    <sCd>208</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>슈거랜드</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 02일(금) (1) 11:00</day>
+    <sCd>209</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>누가 울새를 죽였나?</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>210</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아무도 모른다 + J 스페셜클래스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>211</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>자크 드미, 낭만과 현실 사이</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 02일(금) (1) 10:30</day>
+    <sCd>212</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>캐리어를 끄는 소녀</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>213</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 2: 장뤼크 고다르 단편</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 02일(금) (1) 10:30</day>
+    <sCd>214</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>증거</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>215</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내 말 좀 들어줘</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>216</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>꿈을 꾸었다 말해요</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 02일(금) (1) 10:30</day>
+    <sCd>217</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>클리어</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 02일(금) (1) 10:30</day>
+    <sCd>218</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>저 구석 자리로 주세요</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>219</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>쇼아</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 02일(금) (1) 10:00</day>
+    <sCd>220</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그랑 메종 파리</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 02일(금) (3) 16:30</day>
+    <sCd>221</sCd>
+    <rNo>317</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>황진이</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 02일(금) (2) 14:00</day>
+    <sCd>222</sCd>
+    <rNo>16</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>장례를 위한 준비</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 02일(금) (2) 13:30</day>
+    <sCd>223</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마지막 야구 경기</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 02일(금) (2) 13:30</day>
+    <sCd>224</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>뜬소문</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 02일(금) (2) 14:00</day>
+    <sCd>225</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>기억 샤워 바다</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 02일(금) (2) 13:30</day>
+    <sCd>226</sCd>
+    <rNo>1</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>찰칵 소리와 함께한 시절</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 02일(금) (2) 14:30</day>
+    <sCd>227</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>빈집의 연인들</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 02일(금) (2) 14:00</day>
+    <sCd>228</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사이클 마헤시</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 02일(금) (2) 14:30</day>
+    <sCd>229</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 3: 색채의 예술</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 02일(금) (2) 13:30</day>
+    <sCd>230</sCd>
+    <rNo>14</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>부부 문제 해결사</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 02일(금) (2) 15:00</day>
+    <sCd>231</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>더 차일드</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 02일(금) (2) 14:00</day>
+    <sCd>232</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>겨울의 빛</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 02일(금) (2) 13:30</day>
+    <sCd>233</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>갈매기 + 마중초이스(서현우)</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 02일(금) (2) 15:00</day>
+    <sCd>234</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하나는 적고 둘은 좋아</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 02일(금) (2) 13:30</day>
+    <sCd>235</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>프랑수아 트뤼포, 한 편의 영화 같은 삶</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 02일(금) (2) 13:30</day>
+    <sCd>236</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>귤레귤레</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 02일(금) (2) 14:00</day>
+    <sCd>237</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>백현진쑈 문명의 끝</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 02일(금) (2) 14:00</day>
+    <sCd>238</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>같은 색의 아홉 가지 다른 뉘앙스</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 02일(금) (2) 13:30</day>
+    <sCd>239</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>추락에 대하여</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 02일(금) (4) 20:00</day>
+    <sCd>240</sCd>
+    <rNo>101</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>라몬과 라몬</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 02일(금) (3) 18:00</day>
+    <sCd>241</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>잡종 + 영특한 대화</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 02일(금) (3) 17:30</day>
+    <sCd>242</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>새로운 물결</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 02일(금) (3) 17:00</day>
+    <sCd>243</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>엄마와 곰</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 02일(금) (3) 17:30</day>
+    <sCd>244</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>레이오버 호텔</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 02일(금) (3) 17:00</day>
+    <sCd>245</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>도주</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 02일(금) (3) 18:00</day>
+    <sCd>246</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>삼희 : The Adventure of 3 Joys</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 02일(금) (3) 17:30</day>
+    <sCd>247</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아기 천사</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 02일(금) (3) 18:00</day>
+    <sCd>248</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>우리가 이야기하는 방법</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 02일(금) (3) 17:00</day>
+    <sCd>249</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>꽃잎 + J 스페셜클래스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 02일(금) (3) 18:30</day>
+    <sCd>250</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>발코니의 여자들</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 02일(금) (3) 17:30</day>
+    <sCd>251</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>97 혜자, 표류기</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 02일(금) (3) 17:00</day>
+    <sCd>252</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>친숙한 손길</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 02일(금) (3) 18:30</day>
+    <sCd>253</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>외계 우주 정복자 환영</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 02일(금) (3) 17:00</day>
+    <sCd>254</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하트 투 하트</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 02일(금) (3) 17:00</day>
+    <sCd>255</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비밀일 수밖에</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 02일(금) (3) 17:30</day>
+    <sCd>256</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>소년</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 02일(금) (3) 17:30</day>
+    <sCd>257</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마크 브라운과 함께하는 7가지 산책</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 02일(금) (3) 17:00</day>
+    <sCd>258</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>푸르스름한</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 02일(금) (4) 21:00</day>
+    <sCd>259</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>속초에서의 겨울</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 02일(금) (4) 21:30</day>
+    <sCd>260</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>모래시계 표지판 아래 요양소</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 02일(금) (4) 20:30</day>
+    <sCd>261</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>메시지</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 02일(금) (4) 21:00</day>
+    <sCd>262</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이방인의 텃밭</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 02일(금) (4) 20:30</day>
+    <sCd>263</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 1: 곡예사</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 02일(금) (4) 21:30</day>
+    <sCd>264</sCd>
+    <rNo>40</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>바다호랑이</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 02일(금) (4) 21:00</day>
+    <sCd>265</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>율리시스</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 02일(금) (4) 21:30</day>
+    <sCd>266</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>콜렉티브 모놀로그</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 02일(금) (4) 20:30</day>
+    <sCd>267</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>피치는 미쳐 가고 있어</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 02일(금) (4) 21:00</day>
+    <sCd>268</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>무색무취</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 02일(금) (4) 21:00</day>
+    <sCd>269</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤의 라사로</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 02일(금) (4) 20:30</day>
+    <sCd>270</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>집에 살던 새는 모두 어디로 갔을까</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 02일(금) (4) 20:30</day>
+    <sCd>271</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>만남의 집</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 02일(금) (4) 21:00</day>
+    <sCd>272</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>핑크문</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 02일(금) (4) 21:00</day>
+    <sCd>273</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>귈리자르의 결혼</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 02일(금) (4) 20:30</day>
+    <sCd>274</sCd>
+    <rNo>0</rNo>
+    <ymd>20250502</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>록 밴드 게스이도즈</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 03일(토) (2) 13:00</day>
+    <sCd>301</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이장욱 감독전 + 라이브 필름 퍼포먼스</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 03일(토) (1) 10:30</day>
+    <sCd>302</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>21세기로부터의 탈출</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 03일(토) (1) 10:30</day>
+    <sCd>303</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 1: 존 스미스 단편</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>304</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내가 가진 것은 아무것도 없었다 + 영화로의 여행</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 03일(토) (1) 10:30</day>
+    <sCd>305</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>핑크문</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>306</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비디오헤븐</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 03일(토) (1) 11:00</day>
+    <sCd>307</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 1</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 03일(토) (1) 10:30</day>
+    <sCd>308</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>갚아야 할 빚이 너무 많다</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 03일(토) (1) 10:30</day>
+    <sCd>309</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>빌 머술러스: 멈추지 않는 독립적인 시선</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>310</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>추락에 대하여</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>311</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마지막 공화당원 + 영특한 대화</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 03일(토) (1) 10:30</day>
+    <sCd>312</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>통곡</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 03일(토) (2) 14:00</day>
+    <sCd>313</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아방</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>314</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>빅토리 + 마중초이스(이찬형)</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 03일(토) (1) 11:00</day>
+    <sCd>315</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>누군가 지켜보고 있다</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>316</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>에디 앨리스</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>317</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>시련과 입문</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 03일(토) (1) 10:30</day>
+    <sCd>318</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>바다호랑이</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 03일(토) (1) 10:30</day>
+    <sCd>319</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>멕시코는 더 이상 존재하지 않을 거야!</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>320</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>라몬과 라몬</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 03일(토) (1) 10:00</day>
+    <sCd>321</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>계엄령의 기억</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 03일(토) (3) 16:30</day>
+    <sCd>322</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이 생의 몸 + 영화로의 여행</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 03일(토) (2) 13:30</day>
+    <sCd>323</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>고독의 오후</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 03일(토) (2) 13:30</day>
+    <sCd>324</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>오늘 우리가 했던 말</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 03일(토) (2) 13:30</day>
+    <sCd>325</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>차가운 것이 좋아!</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 03일(토) (2) 14:30</day>
+    <sCd>326</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>만남의 집</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 03일(토) (2) 13:00</day>
+    <sCd>327</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 3</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 03일(토) (2) 14:00</day>
+    <sCd>328</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그리고 안개</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 03일(토) (2) 14:00</day>
+    <sCd>329</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하와의 첫 문장</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 03일(토) (2) 13:30</day>
+    <sCd>330</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>배창호의 클로즈 업 + 마스터클래스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 03일(토) (2) 13:30</day>
+    <sCd>331</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>생명의 은인</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 03일(토) (2) 13:00</day>
+    <sCd>332</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비밀 사이 + 마중초이스(차정우)</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 03일(토) (2) 15:00</day>
+    <sCd>333</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>소년 + 영화로의 여행</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 03일(토) (2) 14:00</day>
+    <sCd>334</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>꿈을 꾸었다 말해요</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 03일(토) (2) 14:00</day>
+    <sCd>335</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>기억 샤워 바다</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 03일(토) (2) 14:00</day>
+    <sCd>336</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>직사각형, 삼각형 + 병훈의 하루</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 03일(토) (2) 14:00</day>
+    <sCd>337</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>누가 울새를 죽였나?</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 03일(토) (2) 13:30</day>
+    <sCd>338</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>도주</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 03일(토) (2) 13:30</day>
+    <sCd>339</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>메시지</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 03일(토) (4) 20:00</day>
+    <sCd>340</sCd>
+    <rNo>76</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>영화보다 낯선 단편 1</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 03일(토) (3) 18:00</day>
+    <sCd>341</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>잡종</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 03일(토) (3) 17:00</day>
+    <sCd>342</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>적이 온다</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 03일(토) (3) 17:30</day>
+    <sCd>343</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>어두운 밤 - 센 강가의 아이들</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 03일(토) (3) 18:30</day>
+    <sCd>344</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>호루몽</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 03일(토) (3) 17:00</day>
+    <sCd>345</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비구니</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 03일(토) (3) 17:30</day>
+    <sCd>346</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 5</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 03일(토) (3) 17:30</day>
+    <sCd>347</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>시인의 마음</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 03일(토) (3) 18:00</day>
+    <sCd>348</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>외계 우주 정복자 환영</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 03일(토) (3) 17:00</day>
+    <sCd>349</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>파란만장 + 복수는 나의 것 + J 스페셜클래스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 03일(토) (3) 18:00</day>
+    <sCd>350</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>1978</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 03일(토) (3) 17:30</day>
+    <sCd>351</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>여름의 카메라</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 03일(토) (3) 17:00</day>
+    <sCd>352</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>불행한 시간 + 잠 #2</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 03일(토) (4) 21:00</day>
+    <sCd>353</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>꽃잎</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 03일(토) (3) 17:30</day>
+    <sCd>354</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>가끔 구름</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 03일(토) (3) 17:30</day>
+    <sCd>355</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이방인의 텃밭</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 03일(토) (3) 17:30</day>
+    <sCd>356</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>맨홀</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 03일(토) (3) 17:30</day>
+    <sCd>357</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>바람의 불</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 03일(토) (3) 17:00</day>
+    <sCd>358</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>거주민 + 남쪽에서 온 신부</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 03일(토) (3) 17:00</day>
+    <sCd>359</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그해 겨울은 따뜻했네</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 03일(토) (4) 21:00</day>
+    <sCd>360</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>속초에서의 겨울</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 03일(토) (4) 21:00</day>
+    <sCd>361</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤보다 긴 꿈</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 03일(토) (4) 20:30</day>
+    <sCd>362</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>콘티넨탈 '25</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 03일(토) (4) 20:30</day>
+    <sCd>363</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>새로운 물결</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 03일(토) (4) 21:00</day>
+    <sCd>364</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 7</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 03일(토) (4) 21:00</day>
+    <sCd>365</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비상</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 03일(토) (4) 21:30</day>
+    <sCd>366</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 2: 몬동고 초상화</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 03일(토) (4) 20:30</day>
+    <sCd>367</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>성실한 나라의 앨리스</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 03일(토) (4) 21:00</day>
+    <sCd>368</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그래도, 사랑해.</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 03일(토) (4) 20:30</day>
+    <sCd>369</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>필리핀 민주주의의 불씨</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 03일(토) (4) 20:30</day>
+    <sCd>370</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>빈집의 연인들</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 03일(토) (4) 20:30</day>
+    <sCd>371</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하트 투 하트</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 03일(토) (4) 21:00</day>
+    <sCd>372</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>레이오버 호텔</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 03일(토) (4) 21:00</day>
+    <sCd>373</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>야간 근무</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 03일(토) (4) 20:30</day>
+    <sCd>374</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>푸르스름한</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 03일(토) (4) 20:30</day>
+    <sCd>375</sCd>
+    <rNo>0</rNo>
+    <ymd>20250503</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>당신의 맛</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 04일(일) (2) 13:30</day>
+    <sCd>401</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>영화보다 낯선 단편 2</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>402</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤이 되면 늑대가 온다</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 04일(일) (1) 10:30</day>
+    <sCd>403</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>7일간의 외출</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>404</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 1: 곡예사</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 04일(일) (1) 10:30</day>
+    <sCd>405</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 1</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>406</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>적이 온다</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 04일(일) (1) 11:00</day>
+    <sCd>407</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 6</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 04일(일) (1) 10:30</day>
+    <sCd>408</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>페도르 오제로프의 마지막 노래</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 04일(일) (1) 11:00</day>
+    <sCd>409</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마고 내시: 호주 사회의 도전적 이미지</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>410</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>너와의 거리 + 마스터클래스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>411</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>호루몽</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 04일(일) (1) 10:30</day>
+    <sCd>412</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>3670</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>413</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내가 넘어져도 내버려 둬</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 04일(일) (1) 10:30</day>
+    <sCd>414</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마크 브라운과 함께하는 7가지 산책</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>415</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>CLEAR + 전주와이드토크</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>416</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 3</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 04일(일) (1) 10:30</day>
+    <sCd>417</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>빈집의 연인들</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 04일(일) (1) 10:30</day>
+    <sCd>418</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>돌아온 구구시</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 04일(일) (1) 10:00</day>
+    <sCd>419</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비팅 하츠</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 04일(일) (3) 18:30</day>
+    <sCd>420</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>동물 촬영법의 세 가지 가르침: 디즈니, 숙스도르프, 프라마르티노</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 04일(일) (2) 13:00</day>
+    <sCd>421</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아무도 모른다</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 04일(일) (2) 13:30</day>
+    <sCd>422</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>브라질 대선의 기록</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 04일(일) (2) 13:00</day>
+    <sCd>423</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>집에 살던 새는 모두 어디로 갔을까</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 04일(일) (2) 13:30</day>
+    <sCd>424</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>노르웨이식 데모크레이지</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 04일(일) (2) 14:00</day>
+    <sCd>425</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 8</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 04일(일) (2) 14:00</day>
+    <sCd>426</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>저항의 기록</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 04일(일) (2) 14:30</day>
+    <sCd>427</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>공원</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 04일(일) (2) 13:30</day>
+    <sCd>428</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>파란만장 + 복수는 나의 것</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 04일(일) (2) 13:30</day>
+    <sCd>429</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>무색무취</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 04일(일) (2) 14:00</day>
+    <sCd>430</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>폐허에서 파쿠르</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 04일(일) (2) 14:30</day>
+    <sCd>431</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>수단, 우리를 기억해 줘</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 04일(일) (2) 13:30</day>
+    <sCd>432</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>기억 샤워 바다</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 04일(일) (2) 13:30</day>
+    <sCd>433</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 1</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 04일(일) (2) 14:00</day>
+    <sCd>434</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>자크 드미, 낭만과 현실 사이</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 04일(일) (2) 14:00</day>
+    <sCd>435</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>배창호의 클로즈 업</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 04일(일) (2) 13:30</day>
+    <sCd>436</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>빌 머술러스: 멈추지 않는 독립적인 시선 + 영화로의 여행</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 04일(일) (3) 16:00</day>
+    <sCd>437</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>검은 소</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 04일(일) (4) 20:00</day>
+    <sCd>438</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>가을이 오면</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 04일(일) (3) 17:00</day>
+    <sCd>439</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>뜬소문 + 영화로의 여행</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 04일(일) (3) 17:00</day>
+    <sCd>440</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이방인의 텃밭</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 04일(일) (3) 17:00</day>
+    <sCd>441</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마지막 야구 경기 + 영특한 대화</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 04일(일) (3) 17:30</day>
+    <sCd>442</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 2</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 04일(일) (3) 17:30</day>
+    <sCd>443</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>율리시스</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 04일(일) (3) 18:00</day>
+    <sCd>444</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>피치는 미쳐 가고 있어 + 영특한 대화</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 04일(일) (3) 17:00</day>
+    <sCd>445</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이식된 욕망</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 04일(일) (4) 20:30</day>
+    <sCd>446</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아니말</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 04일(일) (3) 18:00</day>
+    <sCd>447</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>숨비소리</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 04일(일) (3) 17:00</day>
+    <sCd>448</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>푸르스름한</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 04일(일) (3) 17:30</day>
+    <sCd>449</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>끝나지 않은 영화</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 04일(일) (3) 17:00</day>
+    <sCd>450</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>낮에는 덥고 밤에는 춥고</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 04일(일) (3) 17:00</day>
+    <sCd>451</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 7</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 04일(일) (3) 17:30</day>
+    <sCd>452</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>프랑수아 트뤼포, 한 편의 영화 같은 삶</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 04일(일) (3) 17:30</day>
+    <sCd>453</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>콜렉티브 모놀로그</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 04일(일) (3) 17:00</day>
+    <sCd>454</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하나는 적고 둘은 좋아 + 영화로의 여행</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 04일(일) (4) 20:00</day>
+    <sCd>455</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>모래시계 표지판 아래 요양소</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 04일(일) (4) 20:30</day>
+    <sCd>456</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 2: 장뤼크 고다르 단편 + 영화로의 여행</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 04일(일) (4) 21:00</day>
+    <sCd>457</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비밀일 수밖에</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 04일(일) (4) 20:30</day>
+    <sCd>458</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>귤레귤레</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 04일(일) (4) 21:30</day>
+    <sCd>459</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 4</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 04일(일) (4) 21:00</day>
+    <sCd>460</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사이클 마헤시</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 04일(일) (4) 21:30</day>
+    <sCd>461</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아리엘</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 04일(일) (4) 20:30</day>
+    <sCd>462</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>프레와카</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 04일(일) (4) 21:00</day>
+    <sCd>463</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>캐리어를 끄는 소녀</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 04일(일) (4) 20:30</day>
+    <sCd>464</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>새로운 여명: 콜롬비아의 여성 게릴라들</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 04일(일) (4) 21:00</day>
+    <sCd>465</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 3: 색채의 예술</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 04일(일) (4) 20:30</day>
+    <sCd>466</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>낯선 곳을 향해</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 04일(일) (4) 20:30</day>
+    <sCd>467</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 5</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 04일(일) (4) 21:00</day>
+    <sCd>468</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>삼희 : The Adventure of 3 Joys</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 04일(일) (4) 21:00</day>
+    <sCd>469</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>21세기로부터의 탈출</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 04일(일) (4) 21:00</day>
+    <sCd>470</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>버추얼 프로덕션 세미나</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 04일(일) (2) 15:00</day>
+    <sCd>480</sCd>
+    <rNo>0</rNo>
+    <ymd>20250504</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>베일리와 버드</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 05일(월) (2) 13:30</day>
+    <sCd>501</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이장욱 감독전 + 라이브 필름 퍼포먼스</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 05일(월) (1) 10:30</day>
+    <sCd>502</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>영특한 대화: 케이사운드라이브러리</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 05일(월) (1) 11:00</day>
+    <sCd>503</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>오늘 우리가 했던 말</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 05일(월) (1) 10:00</day>
+    <sCd>504</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>록 밴드 게스이도즈</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 05일(월) (1) 10:30</day>
+    <sCd>505</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 2</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 05일(월) (1) 10:00</day>
+    <sCd>506</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비디오헤븐 + 영특한 대화</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 05일(월) (1) 11:00</day>
+    <sCd>507</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 8</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 05일(월) (1) 10:30</day>
+    <sCd>508</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>시인의 마음</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 05일(월) (1) 11:00</day>
+    <sCd>509</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>어두운 밤 - 센 강가의 아이들</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 05일(월) (1) 10:00</day>
+    <sCd>510</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>불행한 시간 + 잠 #2</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 05일(월) (1) 10:00</day>
+    <sCd>511</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사라진 공화국</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 05일(월) (1) 10:30</day>
+    <sCd>512</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>97 혜자, 표류기</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 05일(월) (1) 10:00</day>
+    <sCd>513</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>증거</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 05일(월) (1) 10:30</day>
+    <sCd>514</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>오래된 것, 새로운 것, 빌린 것</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 05일(월) (1) 10:00</day>
+    <sCd>515</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>CLEAR + 전주와이드토크</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 05일(월) (1) 10:00</day>
+    <sCd>516</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>경계</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 05일(월) (1) 10:30</day>
+    <sCd>517</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>경계</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 05일(월) (1) 10:30</day>
+    <sCd>518</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그라운드 제로로부터</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 05일(월) (1) 10:00</day>
+    <sCd>519</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>1978</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>520</sCd>
+    <rNo>133</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>영화보다 낯선 단편 1</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 05일(월) (2) 14:00</day>
+    <sCd>521</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>검은 소 + 영특한 대화</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>522</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>슬로바키아의 희망, 주자나 차푸토바</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 05일(월) (2) 13:30</day>
+    <sCd>523</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>공원 + 영특한 대화</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 05일(월) (2) 14:00</day>
+    <sCd>524</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 6</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 05일(월) (2) 13:30</day>
+    <sCd>525</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 1</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 05일(월) (2) 14:00</day>
+    <sCd>526</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>슈거랜드</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 05일(월) (2) 14:30</day>
+    <sCd>527</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>당신의 맛</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 05일(월) (2) 13:00</day>
+    <sCd>528</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>통곡</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 05일(월) (2) 14:00</day>
+    <sCd>529</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>여름의 카메라</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 05일(월) (2) 14:00</day>
+    <sCd>530</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>장례를 위한 준비</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 05일(월) (2) 13:00</day>
+    <sCd>531</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>누가 울새를 죽였나?</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 05일(월) (2) 13:30</day>
+    <sCd>532</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 2</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 05일(월) (2) 13:30</day>
+    <sCd>533</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>3학년 2학기</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 05일(월) (2) 14:00</day>
+    <sCd>534</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>3학년 2학기</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 05일(월) (2) 14:00</day>
+    <sCd>535</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>거주민 + 남쪽에서 온 신부</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 05일(월) (2) 13:30</day>
+    <sCd>536</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>같은 색의 아홉 가지 다른 뉘앙스</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 05일(월) (3) 17:30</day>
+    <sCd>537</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이식된 욕망</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>538</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>발코니의 여자들</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>539</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>특별상영: 데이즈드 코리아 영영</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 05일(월) (3) 18:00</day>
+    <sCd>540</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 4</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>541</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>새로운 물결</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 05일(월) (3) 18:00</day>
+    <sCd>542</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 3</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 05일(월) (3) 17:30</day>
+    <sCd>543</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아기 천사</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 05일(월) (3) 18:00</day>
+    <sCd>544</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하나는 적고 둘은 좋아</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 05일(월) (3) 16:00</day>
+    <sCd>545</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>고독의 오후 + 마스터클래스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>546</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아니말</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 05일(월) (3) 17:30</day>
+    <sCd>547</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>생명의 은인</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 05일(월) (3) 17:30</day>
+    <sCd>548</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>모든 문명의 기록</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 05일(월) (3) 17:30</day>
+    <sCd>549</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마크 브라운과 함께하는 7가지 산책</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>550</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 4</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>551</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤의 유령</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 05일(월) (3) 17:30</day>
+    <sCd>552</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤의 유령</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 05일(월) (3) 17:30</day>
+    <sCd>553</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내가 가진 것은 아무것도 없었다</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 05일(월) (3) 17:00</day>
+    <sCd>554</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마고 내시: 호주 사회의 도전적 이미지 + 영화로의 여행</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>555</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>프레와카</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 05일(월) (4) 20:30</day>
+    <sCd>556</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤보다 긴 꿈</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 05일(월) (4) 21:30</day>
+    <sCd>557</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>시련과 입문</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 05일(월) (4) 20:30</day>
+    <sCd>558</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>찰칵 소리와 함께한 시절</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 05일(월) (4) 21:30</day>
+    <sCd>559</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>백현진쑈 문명의 끝</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>560</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그리고 안개</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 05일(월) (4) 21:30</day>
+    <sCd>561</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>너와의 거리</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 05일(월) (4) 20:30</day>
+    <sCd>562</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내 말 좀 들어줘</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 05일(월) (4) 21:30</day>
+    <sCd>563</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>퀸즈</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>564</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>겨울의 빛</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>565</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>멕시코는 더 이상 존재하지 않을 거야!</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>566</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>프랑수아 트뤼포, 한 편의 영화 같은 삶</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 05일(월) (4) 20:30</day>
+    <sCd>567</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>에디 앨리스</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 05일(월) (4) 20:30</day>
+    <sCd>568</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내 이름</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>569</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내 이름</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>570</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>집에 살던 새는 모두 어디로 갔을까</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 05일(월) (4) 21:00</day>
+    <sCd>571</sCd>
+    <rNo>0</rNo>
+    <ymd>20250505</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>봉인된 땅 + 영화로의 여행</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 06일(화) (1) 10:30</day>
+    <sCd>601</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그랑 메종 파리</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 06일(화) (1) 10:30</day>
+    <sCd>602</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>귈리자르의 결혼</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>603</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 1: 존 스미스 단편</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 06일(화) (1) 10:30</day>
+    <sCd>604</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 5</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>605</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>지역 독립영화 쇼케이스: 단편 1</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 06일(화) (1) 11:00</day>
+    <sCd>606</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 7</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 06일(화) (1) 10:30</day>
+    <sCd>607</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비상</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 06일(화) (1) 11:00</day>
+    <sCd>608</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 3: 색채의 예술</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>609</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>피치는 미쳐 가고 있어</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>610</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아리엘</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 06일(화) (1) 10:30</day>
+    <sCd>611</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>무색무취</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>612</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>바람의 불</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 06일(화) (1) 10:30</day>
+    <sCd>613</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤의 라사로</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>614</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 3</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>615</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>인생세탁소</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 06일(화) (1) 10:30</day>
+    <sCd>616</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>인생세탁소</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 06일(화) (1) 10:30</day>
+    <sCd>617</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 4</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>618</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내가 가진 것은 아무것도 없었다</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 06일(화) (1) 10:00</day>
+    <sCd>619</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>영화보다 낯선 단편 2</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 06일(화) (2) 14:00</day>
+    <sCd>620</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>브라질 대선의 기록</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 06일(화) (2) 14:00</day>
+    <sCd>621</sCd>
+    <rNo>79</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>가을이 오면</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>622</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>누군가 지켜보고 있다</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 06일(화) (2) 14:00</day>
+    <sCd>623</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>저 구석 자리로 주세요</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>624</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>지역 독립영화 쇼케이스: 단편 2</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 06일(화) (2) 14:30</day>
+    <sCd>625</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>시련과 입문</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 06일(화) (2) 14:00</day>
+    <sCd>626</sCd>
+    <rNo>19</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>저항의 기록</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 06일(화) (2) 14:30</day>
+    <sCd>627</sCd>
+    <rNo>24</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 2: 몬동고 초상화</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>628</sCd>
+    <rNo>10</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>친숙한 손길</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>629</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>필리핀 민주주의의 불씨</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 06일(화) (2) 14:00</day>
+    <sCd>630</sCd>
+    <rNo>49</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그래도, 사랑해.</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>631</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>같은 색의 아홉 가지 다른 뉘앙스</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 06일(화) (2) 14:00</day>
+    <sCd>632</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 3: 드니 코테 장단편</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>633</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 5</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>634</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>미션</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 06일(화) (2) 14:00</day>
+    <sCd>635</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>미션</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 06일(화) (2) 14:00</day>
+    <sCd>636</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 8</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>637</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하나는 적고 둘은 좋아</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 06일(화) (2) 13:30</day>
+    <sCd>638</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>동물 촬영법의 세 가지 가르침: 디즈니, 숙스도르프, 프라마르티노 + 영화로의 여행</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>639</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마지막 공화당원</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 06일(화) (3) 17:30</day>
+    <sCd>640</sCd>
+    <rNo>54</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마지막 야구 경기</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>641</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>귤레귤레</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>642</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>계엄령의 기억</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 06일(화) (3) 18:00</day>
+    <sCd>643</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>삼희 : The Adventure of 3 Joys</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 06일(화) (3) 17:30</day>
+    <sCd>644</sCd>
+    <rNo>25</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>페도르 오제로프의 마지막 노래</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 06일(화) (3) 18:00</day>
+    <sCd>645</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>몬동고 1: 곡예사</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>646</sCd>
+    <rNo>17</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>라몬과 라몬</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>647</sCd>
+    <rNo>45</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>수단, 우리를 기억해 줘</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 06일(화) (3) 17:30</day>
+    <sCd>648</sCd>
+    <rNo>64</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>3670</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>649</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비팅 하츠</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 06일(화) (3) 18:00</day>
+    <sCd>650</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하와의 첫 문장</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 06일(화) (3) 17:30</day>
+    <sCd>651</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 2</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>652</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아이 엠 러브</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 06일(화) (3) 17:30</day>
+    <sCd>653</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아이 엠 러브</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 06일(화) (3) 17:30</day>
+    <sCd>654</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 2</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>655</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내가 넘어져도 내버려 둬</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 06일(화) (3) 17:00</day>
+    <sCd>656</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>페이브먼트(들)</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 06일(화) (4) 21:00</day>
+    <sCd>657</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>21세기로부터의 탈출</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 06일(화) (4) 21:00</day>
+    <sCd>658</sCd>
+    <rNo>48</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>돌아온 구구시</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 06일(화) (4) 20:30</day>
+    <sCd>659</sCd>
+    <rNo>88</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>뜬소문</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 06일(화) (4) 21:00</day>
+    <sCd>660</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>메시지</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 06일(화) (4) 20:30</day>
+    <sCd>661</sCd>
+    <rNo>30</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>적이 온다</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 06일(화) (4) 21:30</day>
+    <sCd>662</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>클리어</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 06일(화) (4) 21:00</day>
+    <sCd>663</sCd>
+    <rNo>9</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>율리시스</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 06일(화) (4) 21:30</day>
+    <sCd>664</sCd>
+    <rNo>66</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>끝나지 않은 영화</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 06일(화) (4) 20:30</day>
+    <sCd>665</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>베일리와 버드</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 06일(화) (4) 20:30</day>
+    <sCd>666</sCd>
+    <rNo>5</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>오래된 것, 새로운 것, 빌린 것</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 06일(화) (4) 21:00</day>
+    <sCd>667</sCd>
+    <rNo>3</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>여름의 카메라</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 06일(화) (4) 20:30</day>
+    <sCd>668</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>자크 드미, 낭만과 현실 사이</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 06일(화) (4) 20:30</day>
+    <sCd>669</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 1</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 06일(화) (4) 20:30</day>
+    <sCd>670</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사진관블루스</tit>
+    <pch>메가박스 전주객사 7관</pch>
+    <day>05월 06일(화) (4) 21:00</day>
+    <sCd>671</sCd>
+    <rNo>8</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사진관블루스</tit>
+    <pch>메가박스 전주객사 8관</pch>
+    <day>05월 06일(화) (4) 21:00</day>
+    <sCd>672</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 6</tit>
+    <pch>메가박스 전주객사 9관</pch>
+    <day>05월 06일(화) (4) 20:30</day>
+    <sCd>673</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>야간 근무</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 06일(화) (4) 21:00</day>
+    <sCd>674</sCd>
+    <rNo>0</rNo>
+    <ymd>20250506</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>핑크문</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 07일(수) (1) 10:30</day>
+    <sCd>701</sCd>
+    <rNo>15</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>3학년 2학기</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 07일(수) (1) 10:00</day>
+    <sCd>702</sCd>
+    <rNo>5</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>가치봄 단편 1</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 07일(수) (1) 10:30</day>
+    <sCd>703</sCd>
+    <rNo>101</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 1</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 07일(수) (1) 10:00</day>
+    <sCd>704</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이장욱 감독전</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 07일(수) (2) 14:00</day>
+    <sCd>705</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>속초에서의 겨울</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 07일(수) (2) 13:30</day>
+    <sCd>706</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>저 구석 자리로 주세요</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 07일(수) (2) 13:30</day>
+    <sCd>707</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>가치봄 단편 3</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 07일(수) (2) 14:00</day>
+    <sCd>708</sCd>
+    <rNo>86</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>우리가 이야기하는 방법</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 07일(수) (2) 13:30</day>
+    <sCd>709</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>미션</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 07일(수) (2) 13:30</day>
+    <sCd>710</sCd>
+    <rNo>53</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>겨울의 빛</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 07일(수) (2) 14:00</day>
+    <sCd>711</sCd>
+    <rNo>11</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 3</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 07일(수) (2) 13:30</day>
+    <sCd>712</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>폐허에서 파쿠르</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 07일(수) (2) 14:00</day>
+    <sCd>713</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>클리어</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 07일(수) (2) 13:30</day>
+    <sCd>714</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 4</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 07일(수) (2) 13:30</day>
+    <sCd>715</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이방인의 텃밭</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 07일(수) (2) 13:30</day>
+    <sCd>716</sCd>
+    <rNo>20</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>이 생의 몸</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 07일(수) (3) 17:00</day>
+    <sCd>717</sCd>
+    <rNo>8</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>잡종</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 07일(수) (3) 17:00</day>
+    <sCd>718</sCd>
+    <rNo>25</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>지역 독립영화 쇼케이스: 단편 1</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 07일(수) (3) 17:00</day>
+    <sCd>719</sCd>
+    <rNo>71</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>나는보리(수어영화+화면해설)</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 07일(수) (3) 17:30</day>
+    <sCd>720</sCd>
+    <rNo>116</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>호루몽</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 07일(수) (3) 17:30</day>
+    <sCd>721</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤의 유령</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 07일(수) (3) 17:00</day>
+    <sCd>722</sCd>
+    <rNo>96</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>생명의 은인</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 07일(수) (3) 17:30</day>
+    <sCd>723</sCd>
+    <rNo>6</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 5</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 07일(수) (3) 17:00</day>
+    <sCd>724</sCd>
+    <rNo>8</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>바람의 불</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 07일(수) (3) 17:30</day>
+    <sCd>725</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마스터즈 3: 드니 코테 장단편</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 07일(수) (3) 17:00</day>
+    <sCd>726</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 5</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 07일(수) (3) 17:00</day>
+    <sCd>727</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>꿈을 꾸었다 말해요</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 07일(수) (3) 17:00</day>
+    <sCd>728</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>기억 샤워 바다</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 07일(수) (4) 21:00</day>
+    <sCd>729</sCd>
+    <rNo>35</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>장례를 위한 준비</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 07일(수) (4) 20:30</day>
+    <sCd>730</sCd>
+    <rNo>33</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>지역 독립영화 쇼케이스: 단편 2</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 07일(수) (4) 20:30</day>
+    <sCd>731</sCd>
+    <rNo>90</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>서울의 봄(수어영화+화면해설)</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 07일(수) (4) 21:00</day>
+    <sCd>732</sCd>
+    <rNo>158</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>외계 우주 정복자 환영</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 07일(수) (4) 20:30</day>
+    <sCd>733</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>인생세탁소</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 07일(수) (4) 20:30</day>
+    <sCd>734</sCd>
+    <rNo>78</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>97 혜자, 표류기</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 07일(수) (4) 21:00</day>
+    <sCd>735</sCd>
+    <rNo>40</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 7</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 07일(수) (4) 20:30</day>
+    <sCd>736</sCd>
+    <rNo>19</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>멕시코는 더 이상 존재하지 않을 거야!</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 07일(수) (4) 21:00</day>
+    <sCd>737</sCd>
+    <rNo>2</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>소년</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 07일(수) (4) 20:30</day>
+    <sCd>738</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 3</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 07일(수) (4) 20:30</day>
+    <sCd>739</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>비밀일 수밖에</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 07일(수) (4) 20:30</day>
+    <sCd>740</sCd>
+    <rNo>0</rNo>
+    <ymd>20250507</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>숨비소리</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 08일(목) (1) 10:30</day>
+    <sCd>801</sCd>
+    <rNo>47</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>노르웨이식 데모크레이지</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 08일(목) (1) 10:30</day>
+    <sCd>802</sCd>
+    <rNo>58</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>농담(배리어프리 버전)</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 08일(목) (1) 10:30</day>
+    <sCd>803</sCd>
+    <rNo>43</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사이클 마헤시</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 08일(목) (1) 11:00</day>
+    <sCd>804</sCd>
+    <rNo>84</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 2</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 08일(목) (1) 10:30</day>
+    <sCd>805</sCd>
+    <rNo>48</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>만남의 집</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 08일(목) (1) 10:30</day>
+    <sCd>806</sCd>
+    <rNo>0</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 1</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 08일(목) (1) 10:00</day>
+    <sCd>807</sCd>
+    <rNo>0</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>동물 촬영법의 세 가지 가르침: 디즈니, 숙스도르프, 프라마르티노</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 08일(목) (2) 14:00</day>
+    <sCd>808</sCd>
+    <rNo>35</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>브라질 대선의 기록</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 08일(목) (1) 10:00</day>
+    <sCd>809</sCd>
+    <rNo>95</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아이 엠 러브</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 08일(목) (2) 14:00</day>
+    <sCd>810</sCd>
+    <rNo>62</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>누군가 지켜보고 있다</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 08일(목) (2) 13:30</day>
+    <sCd>811</sCd>
+    <rNo>0</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>가치봄 단편 2</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 08일(목) (2) 13:30</day>
+    <sCd>812</sCd>
+    <rNo>100</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>갚아야 할 빚이 너무 많다</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 08일(목) (2) 14:30</day>
+    <sCd>813</sCd>
+    <rNo>22</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>경계</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 08일(목) (2) 13:30</day>
+    <sCd>814</sCd>
+    <rNo>96</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>찰칵 소리와 함께한 시절</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 08일(목) (2) 14:00</day>
+    <sCd>815</sCd>
+    <rNo>51</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 4</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 08일(목) (2) 13:30</day>
+    <sCd>816</sCd>
+    <rNo>42</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>새로운 여명: 콜롬비아의 여성 게릴라들</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 08일(목) (2) 13:30</day>
+    <sCd>817</sCd>
+    <rNo>28</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>영화보다 낯선 단편 2</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 08일(목) (2) 14:00</day>
+    <sCd>818</sCd>
+    <rNo>0</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 4</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 08일(목) (2) 13:30</day>
+    <sCd>819</sCd>
+    <rNo>12</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>영화보다 낯선 단편 1</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 08일(목) (3) 17:30</day>
+    <sCd>820</sCd>
+    <rNo>16</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사진관블루스</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 08일(목) (3) 17:30</day>
+    <sCd>822</sCd>
+    <rNo>66</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>우리가 이야기하는 방법</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 08일(목) (3) 17:30</day>
+    <sCd>823</sCd>
+    <rNo>1</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>벌새(배리어프리 버전)</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 08일(목) (3) 17:30</day>
+    <sCd>824</sCd>
+    <rNo>88</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아기 천사</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 08일(목) (3) 18:00</day>
+    <sCd>825</sCd>
+    <rNo>0</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내 이름</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 08일(목) (3) 17:00</day>
+    <sCd>826</sCd>
+    <rNo>99</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>아방</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 08일(목) (3) 17:30</day>
+    <sCd>827</sCd>
+    <rNo>73</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 6</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 08일(목) (3) 17:00</day>
+    <sCd>828</sCd>
+    <rNo>18</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤의 라사로</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 08일(목) (3) 17:30</day>
+    <sCd>829</sCd>
+    <rNo>6</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>마고 내시: 호주 사회의 도전적 이미지</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 08일(목) (3) 17:00</day>
+    <sCd>830</sCd>
+    <rNo>18</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 5</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 08일(목) (3) 17:00</day>
+    <sCd>831</sCd>
+    <rNo>18</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>바다호랑이</tit>
+    <pch>전주디지털독립영화관 .</pch>
+    <day>05월 08일(목) (4) 20:30</day>
+    <sCd>832</sCd>
+    <rNo>35</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>캐리어를 끄는 소녀</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 08일(목) (4) 21:00</day>
+    <sCd>834</sCd>
+    <rNo>24</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>모래시계 표지판 아래 요양소</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 08일(목) (4) 21:30</day>
+    <sCd>835</sCd>
+    <rNo>26</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>시간을 달리는 소녀(배리어프리 버전)</tit>
+    <pch>CGV전주고사 6관</pch>
+    <day>05월 08일(목) (4) 21:00</day>
+    <sCd>836</sCd>
+    <rNo>110</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>슈거랜드</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 08일(목) (4) 21:30</day>
+    <sCd>837</sCd>
+    <rNo>41</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>에디 앨리스</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 08일(목) (4) 20:30</day>
+    <sCd>838</sCd>
+    <rNo>101</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>내 말 좀 들어줘</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 08일(목) (4) 21:00</day>
+    <sCd>839</sCd>
+    <rNo>0</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>한국단편경쟁 8</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 08일(목) (4) 20:30</day>
+    <sCd>840</sCd>
+    <rNo>83</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>빈집의 연인들</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 08일(목) (4) 21:00</day>
+    <sCd>841</sCd>
+    <rNo>27</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>시련과 입문</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 08일(목) (4) 20:30</day>
+    <sCd>842</sCd>
+    <rNo>32</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 3</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 08일(목) (4) 20:30</day>
+    <sCd>843</sCd>
+    <rNo>33</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>페퍼톤스 인 시네마 : 에브리씽 이즈 오케이</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 08일(목) (4) 19:00</day>
+    <sCd>844</sCd>
+    <rNo>0</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>용암의집 + 마스터클래스</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 08일(목) (2) 14:00</day>
+    <sCd>845</sCd>
+    <rNo>21</rNo>
+    <ymd>20250508</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>부부 문제 해결사</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 09일(금) (1) 10:30</day>
+    <sCd>901</sCd>
+    <rNo>110</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>퀸즈</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 09일(금) (1) 10:30</day>
+    <sCd>902</sCd>
+    <rNo>50</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>시인의 마음</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 09일(금) (1) 11:00</day>
+    <sCd>903</sCd>
+    <rNo>55</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>증거</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 09일(금) (1) 10:00</day>
+    <sCd>904</sCd>
+    <rNo>25</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>검은 소</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 09일(금) (2) 14:00</day>
+    <sCd>905</sCd>
+    <rNo>126</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그라운드 제로로부터</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 09일(금) (2) 14:00</day>
+    <sCd>906</sCd>
+    <rNo>17</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>지역 독립영화 쇼케이스: 단편 1</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 09일(금) (2) 13:30</day>
+    <sCd>907</sCd>
+    <rNo>114</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>모든 문명의 기록</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 09일(금) (2) 14:30</day>
+    <sCd>908</sCd>
+    <rNo>84</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>그리고 안개</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 09일(금) (2) 14:30</day>
+    <sCd>909</sCd>
+    <rNo>118</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>밤보다 긴 꿈</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 09일(금) (2) 13:30</day>
+    <sCd>910</sCd>
+    <rNo>4</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>맨홀</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 09일(금) (2) 13:30</day>
+    <sCd>911</sCd>
+    <rNo>81</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>클리어</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 09일(금) (2) 14:00</day>
+    <sCd>912</sCd>
+    <rNo>16</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>수상작 상영 2</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 09일(금) (2) 13:30</day>
+    <sCd>913</sCd>
+    <rNo>93</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>거주민 + 남쪽에서 온 신부</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 09일(금) (2) 14:00</day>
+    <sCd>914</sCd>
+    <rNo>25</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>삼희 : The Adventure of 3 Joys</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 09일(금) (2) 13:30</day>
+    <sCd>915</sCd>
+    <rNo>21</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>코리안시네마 단편 2</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 09일(금) (2) 13:30</day>
+    <sCd>916</sCd>
+    <rNo>15</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>수상작 상영 4</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 09일(금) (2) 13:30</day>
+    <sCd>917</sCd>
+    <rNo>15</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>라몬과 라몬</tit>
+    <pch>CGV전주고사 1관</pch>
+    <day>05월 09일(금) (3) 17:30</day>
+    <sCd>918</sCd>
+    <rNo>144</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>사라진 공화국</tit>
+    <pch>CGV전주고사 3관</pch>
+    <day>05월 09일(금) (3) 17:30</day>
+    <sCd>919</sCd>
+    <rNo>92</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>지역 독립영화 쇼케이스: 단편 2</tit>
+    <pch>CGV전주고사 4관</pch>
+    <day>05월 09일(금) (3) 17:00</day>
+    <sCd>920</sCd>
+    <rNo>113</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>친숙한 손길</tit>
+    <pch>CGV전주고사 5관</pch>
+    <day>05월 09일(금) (3) 18:00</day>
+    <sCd>921</sCd>
+    <rNo>42</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>수상작 상영 1</tit>
+    <pch>CGV전주고사 7관</pch>
+    <day>05월 09일(금) (3) 18:00</day>
+    <sCd>922</sCd>
+    <rNo>115</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>저 구석 자리로 주세요</tit>
+    <pch>CGV전주고사 8관</pch>
+    <day>05월 09일(금) (3) 17:00</day>
+    <sCd>923</sCd>
+    <rNo>31</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>집에 살던 새는 모두 어디로 갔을까</tit>
+    <pch>메가박스 전주객사 1관</pch>
+    <day>05월 09일(금) (3) 17:00</day>
+    <sCd>924</sCd>
+    <rNo>88</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>하트 투 하트</tit>
+    <pch>메가박스 전주객사 2관</pch>
+    <day>05월 09일(금) (3) 17:30</day>
+    <sCd>925</sCd>
+    <rNo>86</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>수상작 상영 3</tit>
+    <pch>메가박스 전주객사 3관</pch>
+    <day>05월 09일(금) (3) 17:00</day>
+    <sCd>926</sCd>
+    <rNo>90</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>백현진쑈 문명의 끝</tit>
+    <pch>메가박스 전주객사 4관</pch>
+    <day>05월 09일(금) (3) 17:30</day>
+    <sCd>927</sCd>
+    <rNo>25</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>레이오버 호텔</tit>
+    <pch>메가박스 전주객사 5관</pch>
+    <day>05월 09일(금) (3) 17:00</day>
+    <sCd>928</sCd>
+    <rNo>0</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>빌 머술러스: 멈추지 않는 독립적인 시선</tit>
+    <pch>메가박스 전주객사 6관</pch>
+    <day>05월 09일(금) (3) 17:00</day>
+    <sCd>929</sCd>
+    <rNo>34</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>직사각형, 삼각형 + 병훈의 하루</tit>
+    <pch>메가박스 전주객사 10관</pch>
+    <day>05월 09일(금) (3) 17:00</day>
+    <sCd>930</sCd>
+    <rNo>20</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>귈리자르의 결혼</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 09일(금) (2) 13:30</day>
+    <sCd>931</sCd>
+    <rNo>100</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>슬로바키아의 희망, 주자나 차푸토바</tit>
+    <pch>CGV전주고사 2관</pch>
+    <day>05월 09일(금) (3) 17:00</day>
+    <sCd>932</sCd>
+    <rNo>111</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+  <ScheduleSummary>
+    <tit>폐막식 + 폐막작: 기계의 나라에서</tit>
+    <pch>전북대학교 삼성문화회관 .</pch>
+    <day>05월 09일(금) (4) 18:30</day>
+    <sCd>999</sCd>
+    <rNo>299</rNo>
+    <ymd>20250509</ymd>
+  </ScheduleSummary>
+</ArrayOfScheduleSummary>

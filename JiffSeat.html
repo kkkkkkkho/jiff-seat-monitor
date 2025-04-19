@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>전주국제영화제 잔여석 모니터링</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      background: #1e1e1e;
+      color: #ddd;
+    }
+    h1 {
+      text-align: center;
+    }
+    input[type="text"] {
+      width: 300px;
+      padding: 8px;
+      margin-bottom: 10px;
+      background-color: #2c2c2c;
+      color: #fff;
+      border: 1px solid #555;
+    }
+    select {
+      background-color: #2c2c2c;
+      color: #fff;
+      border: 1px solid #555;
+      padding: 6px;
+      margin-left: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+      background-color: #2a2a2a;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 10px;
+      text-align: left;
+    }
+    th {
+      background-color: #333;
+      color: #fff;
+    }
+    .remain-high {
+      background-color: #2e5f2e;
+      color: #dfffdc;
+    }
+    .remain-low {
+      background-color: #7a5b00;
+      color: #fff6d1;
+    }
+    .sold-out {
+      background-color: #444;
+      text-decoration: line-through;
+      color: #888;
+    }
+    #refreshTimer {
+      margin-top: 10px;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>전주국제영화제 잔여석 모니터링</h1>
+  <input type="text" id="searchBox" placeholder="제목, 상영관, 상영코드로 검색" />
+  <button id="toggleAutoRefresh">자동 새로고침: ON</button>
+  <label for="refreshInterval">간격:</label>
+  <select id="refreshInterval">
+    <option value="1">1초</option>
+    <option value="3">3초</option>
+    <option value="5">5초</option>
+    <option value="10" selected>10초</option>
+  </select>
+  <div id="refreshTimer"></div>
+  <table>
+    <thead>
+      <tr>
+        <th>날짜</th>
+        <th>제목</th>
+        <th>상영관</th>
+        <th>시간</th>
+        <th>상영코드</th>
+        <th>잔여석</th>
+      </tr>
+    </thead>
+    <tbody id="scheduleTable"></tbody>
+  </table>
+
+  <script>
+    let autoRefresh = localStorage.getItem('autoRefresh') !== 'false';
+    let refreshSeconds = parseInt(localStorage.getItem('refreshInterval')) || 60;
+    let intervalId = null;
+    let countdown = refreshSeconds;
+    const timerDisplay = document.getElementById('refreshTimer');
+
+    async function loadSchedule() {
+      const res = await fetch('schedule.xml');
+      const text = await res.text();
+      const parser = new DOMParser();
+      const xml = parser.parseFromString(text, 'application/xml');
+
+      const rows = [...xml.getElementsByTagName('ScheduleSummary')];
+      const data = rows.map(row => ({
+        title: row.querySelector('tit').textContent,
+        place: row.querySelector('pch').textContent,
+        time: row.querySelector('day').textContent,
+        code: row.querySelector('sCd').textContent,
+        remain: parseInt(row.querySelector('rNo').textContent),
+        date: row.querySelector('ymd').textContent
+      })).sort((a, b) => a.date.localeCompare(b.date));
+
+      const table = document.getElementById('scheduleTable');
+      const searchBox = document.getElementById('searchBox');
+
+      searchBox.value = localStorage.getItem('searchQuery') || '';
+
+      function renderTable(filter = '') {
+        table.innerHTML = '';
+        const terms = filter.toLowerCase().split(',').map(s => s.trim()).filter(Boolean);
+
+        data.filter(d => {
+          return terms.length === 0 || terms.some(term =>
+            d.title.toLowerCase().includes(term) ||
+            d.place.toLowerCase().includes(term) ||
+            d.code.includes(term)
+          );
+        }).forEach(d => {
+          const tr = document.createElement('tr');
+          tr.className = d.remain === 0
+            ? 'sold-out'
+            : d.remain < 10
+            ? 'remain-low'
+            : 'remain-high';
+
+          tr.innerHTML = `
+            <td>${d.date.slice(0,4)}-${d.date.slice(4,6)}-${d.date.slice(6,8)}</td>
+            <td>${d.title}</td>
+            <td>${d.place}</td>
+            <td>${d.time.split(')').pop().trim()}</td>
+            <td>${d.code}</td>
+            <td>${d.remain === 0 ? '매진' : d.remain + '석'}</td>
+          `;
+          table.appendChild(tr);
+        });
+      }
+
+      document.getElementById('searchBox').addEventListener('input', e => {
+        const val = e.target.value;
+        localStorage.setItem('searchQuery', val);
+        renderTable(val);
+      });
+
+      renderTable(searchBox.value);
+    }
+
+    function updateAutoRefreshUI() {
+      const btn = document.getElementById('toggleAutoRefresh');
+      btn.textContent = `자동 새로고침: ${autoRefresh ? 'ON' : 'OFF'}`;
+    }
+
+    function startAutoRefresh() {
+      if (intervalId) clearInterval(intervalId);
+      if (autoRefresh) {
+        intervalId = setInterval(() => {
+          loadSchedule();
+          countdown = refreshSeconds;
+        }, refreshSeconds * 1000);
+      }
+      updateAutoRefreshUI();
+    }
+
+    document.getElementById('toggleAutoRefresh').addEventListener('click', () => {
+      autoRefresh = !autoRefresh;
+      localStorage.setItem('autoRefresh', autoRefresh);
+      startAutoRefresh();
+    });
+
+    document.getElementById('refreshInterval').addEventListener('change', e => {
+      refreshSeconds = parseInt(e.target.value);
+      localStorage.setItem('refreshInterval', refreshSeconds);
+      countdown = refreshSeconds;
+      startAutoRefresh();
+    });
+
+    setInterval(() => {
+      if (autoRefresh) {
+        countdown--;
+        if (countdown <= 0) countdown = refreshSeconds;
+        if (timerDisplay) {
+          timerDisplay.textContent = `⏱ ${countdown}초 후 새로고침됩니다`;
+        }
+      } else {
+        if (timerDisplay) timerDisplay.textContent = '';
+      }
+    }, 1000);
+
+    loadSchedule();
+    startAutoRefresh();
+  </script>
+</body>
+</html>
